@@ -48,7 +48,9 @@ There are four different unit types in the **Battle Duels**, each with their str
 
 ## Screenshots
 
-// TODO
+<img src="Screenshots/BattleStart.png" alt="Battle start" width="750"/>
+<img src="Screenshots/BattleProcess.png" alt="Battle process" width="750"/>
+<img src="Screenshots/BattleEnd.png" alt="Battle end" width="750"/>
 
 ## Disclamer
 
