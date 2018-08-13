@@ -10,7 +10,14 @@ Made with Unity.
 
 ## Where to play
 
-// TODO
+You can download an archive with an executable of the game for Windows from Google Drive: [64-bit](https://drive.google.com/open?id=15zW5_QZ7mpfcnbm0OAvVCNN5NjMkdtaM), [32-bit](https://drive.google.com/open?id=1lf3bZOFVvzjECdwQPKlS2kPR0kKjpTwW).  
+Or you can build the game on your own PC, following the instructions below.
+
+## Building
+
+1.  `git clone https://github.com/Ziririn/BattleDuels.git`
+2.  Open the project in the Unity editor.
+3.  Choose **File - Build and Run** and select the desired build folder.
 
 ## How to play
 
